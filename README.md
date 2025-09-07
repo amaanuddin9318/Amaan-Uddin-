@@ -14,7 +14,7 @@ I turn raw data into actionable insights to support smarter business decisions.
 
 - 🎬 **Netflix Dataset Analysis**  
   Explored and visualized trends in Netflix content using Python (Pandas, Matplotlib, Seaborn).  
-  → [View Project Repo](#) ← *(Replace this with the actual repo link once uploaded)*
+  → [View Project Repo](#) ← 
 
 - 📈 **Sales Dashboard** *(Coming Soon)*  
   Building a Power BI dashboard to track regional sales KPIs and monthly trends.
